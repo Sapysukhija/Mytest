@@ -43,6 +43,6 @@ cout<<inputstring[index];
 cout<<"\n";
 cout<<"frequency is";
 cout<<big;
-
+notrbyfnunjfjng
 return 0;
 }
